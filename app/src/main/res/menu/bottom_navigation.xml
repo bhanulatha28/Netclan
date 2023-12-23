@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Refine"
+        android:id="@+id/refine"
+        android:icon="@drawable/categories_icon"/>
+    <item android:title="Explore"
+        android:id="@+id/explore"
+        android:icon="@drawable/eye_icon"/>
+    <item android:title="Network"
+        android:id="@+id/network"
+        android:icon="@drawable/network_icon"/>
+
+    <item android:title="Chat"
+        android:id="@+id/chat"
+        android:icon="@drawable/chat_icon"/>
+    <item android:title="Contacts"
+        android:id="@+id/contacts"
+        android:icon="@drawable/contacts_icon"/>
+</menu>
